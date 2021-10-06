@@ -30,8 +30,6 @@ if kaas == 'nee':
             print('Camembert')
         elif korst == 'nee':
             print('Mozzarella')
-else:
-    print('invalid')
 
 
 
